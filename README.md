@@ -1,3 +1,4 @@
+Change for poll scm demo
 This example demonstrates how to analyze a simple Java project with the Sonar Scanner.
 
 Prerequisites
