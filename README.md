@@ -1,5 +1,5 @@
 Change for poll scm demo.
-SC1
+SC1 SC2
 This example demonstrates how to analyze a simple Java project with the Sonar Scanner.
 
 Prerequisites
